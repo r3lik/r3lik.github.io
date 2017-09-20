@@ -11,10 +11,12 @@ user_title: Systems and Network Engineer
 email: anon@anon.com
 twitter_username: r3lik
 github_username:  r3lik
-gplus_username:  lorem_ipsum
+gplus_username:  lorem_ipsumfdgfdgfdgfdg
 
 # Google-analytics
 google-analytics:
   id: ""
 
 exclude: ['package.json', 'src' , 'node_modules']
+
+production_url : https://r3lik.github.io/r3lik2
