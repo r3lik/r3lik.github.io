@@ -57,6 +57,7 @@ body {
 
 #particles-js {
   background: $main;
+  box-sizing: border-box;
   display: block;
   vertical-align: bottom;
   width: 100vw;
