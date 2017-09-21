@@ -64,6 +64,7 @@ body {
   background-repeat: no-repeat;
   background-size: cover;
   background-attachment: fixed;
+  overflow-x: hidden;
   .particles-js-canvas-el {
     width:100vw !important;
     height:100vh !important;
@@ -257,6 +258,7 @@ body {
   margin-top: 100px;
   text-align: center;
   color: #FFF;
+  overflow-x: hidden;
   .love {
     color: red;
   }
