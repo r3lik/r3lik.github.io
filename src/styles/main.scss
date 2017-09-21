@@ -8,6 +8,7 @@ $cut: 768px;
 body {
   margin: 0;
   font-family: 'Montserrat', sans-serif;
+  overflow-x: hidden;
 }
 
 @-webkit-keyframes pulse {
@@ -252,7 +253,7 @@ body {
 
 .footer {
   background: $main;
-  padding: 0px 0;
+  padding: 10px 0;
   margin-top: 100px;
   text-align: center;
   color: #FFF;
