@@ -1,11 +1,11 @@
 # Site settings
-title: r3lik test
-description: Mike's stuff
+title: Mike Czarny: Systems and Network Engineer 
+description: Personal Website
 # baseurl: "/particle" # the subpath of your site, e.g. /blog
 
 # User settings
 username: Mike Czarny
-user_description: I am a systems and network engineer with a passion for building and automating (and all the fun stuff in between). With success in both startup and corporate enviroments having worn many hats, seven years of experience, and a dedication to honing my craft, I am ready for the next challenge.   
+user_description: I am a systems and network engineer with a passion for building and automating (and all the fun stuff in between). Some would call this SysOps/NetOps/DevOps. With success in both startup and corporate enviroments having worn many hats, seven years of experience, a passion to learn and a dedication to honing my craft, I look forward to my next challenge :]    
 user_title: Systems and Network Engineer
 email: mikeczarny@gmail.com
 twitter_username: r3lik
