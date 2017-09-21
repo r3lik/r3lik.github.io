@@ -18,6 +18,4 @@ google-analytics:
 
 exclude: ['package.json', 'src' , 'node_modules']
 
-production_url : https://r3lik.github.io/r3lik2
-BASE_PATH : https://r3lik.github.io/r3lik2
 
