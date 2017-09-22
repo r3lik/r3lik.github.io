@@ -15,6 +15,6 @@ gplus_username:  nooooo
 google-analytics:
   id: ""
 
-exclude: ['package.json', 'src' , 'node_modules']
+exclude: ['package.json', 'node_modules']
 
 
