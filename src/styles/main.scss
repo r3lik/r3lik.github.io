@@ -84,7 +84,7 @@ body {
   -webkit-transform: translate(-50%, -50%);
   transform: translate(-50%, -50%);
   .site-title {
-    font-size: 50px;
+    font-size: 20px;
     display: block;
     line-height: 1;
     @media only screen and (min-width:$cut){
@@ -93,7 +93,7 @@ body {
     }
   }
   .site-description {
-    font-size: 100px;
+    font-size: 20px;
     display: block;
     line-height: 1;
     margin: 5px 0 10px 0;
