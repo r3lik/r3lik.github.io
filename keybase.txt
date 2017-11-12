@@ -1,0 +1,55 @@
+==================================================================
+https://keybase.io/r3lik
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://www.r3lik.com
+  * I am r3lik (https://keybase.io/r3lik) on keybase.
+  * I have a public key ASBVqii58BjRNefg3trPeNZY8VRtdmuZhjq_WYUKZ1-44Ao
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "012055aa28b9f018d135e7e0dedacf78d658f1546d766b99863abf59850a675fb8e00a",
+      "host": "keybase.io",
+      "kid": "012055aa28b9f018d135e7e0dedacf78d658f1546d766b99863abf59850a675fb8e00a",
+      "uid": "4b215d68831fea31aae9b90bc2404019",
+      "username": "r3lik"
+    },
+    "merkle_root": {
+      "ctime": 1510447752,
+      "hash": "c1f0ae66a46b8e44eaa5fdf5aedc84102d442bc2b10d2aa2d44f4982316e3e57c7bb9e710a3fff437c81df7bc31166745e7dfdc1e8421d0014b4468f1fdc73d5",
+      "hash_meta": "5e8182e5f670196d15e51276a3b8de162f1e5639f9caa41a62f5b9c5c5eea89f",
+      "seqno": 1695167
+    },
+    "service": {
+      "hostname": "www.r3lik.com",
+      "protocol": "http:"
+    },
+    "type": "web_service_binding",
+    "version": 1
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "1.0.34"
+  },
+  "ctime": 1510447844,
+  "expire_in": 504576000,
+  "prev": "546318777ac68ddd428bc3b4a9defe45346fb7c74670af28efe4797e065384b2",
+  "seqno": 12,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgVaooufAY0TXn4N7az3jWWPFUbXZrmYY6v1mFCmdfuOAKp3BheWxvYWTFA0J7ImJvZHkiOnsia2V5Ijp7ImVsZGVzdF9raWQiOiIwMTIwNTVhYTI4YjlmMDE4ZDEzNWU3ZTBkZWRhY2Y3OGQ2NThmMTU0NmQ3NjZiOTk4NjNhYmY1OTg1MGE2NzVmYjhlMDBhIiwiaG9zdCI6ImtleWJhc2UuaW8iLCJraWQiOiIwMTIwNTVhYTI4YjlmMDE4ZDEzNWU3ZTBkZWRhY2Y3OGQ2NThmMTU0NmQ3NjZiOTk4NjNhYmY1OTg1MGE2NzVmYjhlMDBhIiwidWlkIjoiNGIyMTVkNjg4MzFmZWEzMWFhZTliOTBiYzI0MDQwMTkiLCJ1c2VybmFtZSI6InIzbGlrIn0sIm1lcmtsZV9yb290Ijp7ImN0aW1lIjoxNTEwNDQ3NzUyLCJoYXNoIjoiYzFmMGFlNjZhNDZiOGU0NGVhYTVmZGY1YWVkYzg0MTAyZDQ0MmJjMmIxMGQyYWEyZDQ0ZjQ5ODIzMTZlM2U1N2M3YmI5ZTcxMGEzZmZmNDM3YzgxZGY3YmMzMTE2Njc0NWU3ZGZkYzFlODQyMWQwMDE0YjQ0NjhmMWZkYzczZDUiLCJoYXNoX21ldGEiOiI1ZTgxODJlNWY2NzAxOTZkMTVlNTEyNzZhM2I4ZGUxNjJmMWU1NjM5ZjljYWE0MWE2MmY1YjljNWM1ZWVhODlmIiwic2Vxbm8iOjE2OTUxNjd9LCJzZXJ2aWNlIjp7Imhvc3RuYW1lIjoid3d3LnIzbGlrLmNvbSIsInByb3RvY29sIjoiaHR0cDoifSwidHlwZSI6IndlYl9zZXJ2aWNlX2JpbmRpbmciLCJ2ZXJzaW9uIjoxfSwiY2xpZW50Ijp7Im5hbWUiOiJrZXliYXNlLmlvIGdvIGNsaWVudCIsInZlcnNpb24iOiIxLjAuMzQifSwiY3RpbWUiOjE1MTA0NDc4NDQsImV4cGlyZV9pbiI6NTA0NTc2MDAwLCJwcmV2IjoiNTQ2MzE4Nzc3YWM2OGRkZDQyOGJjM2I0YTlkZWZlNDUzNDZmYjdjNzQ2NzBhZjI4ZWZlNDc5N2UwNjUzODRiMiIsInNlcW5vIjoxMiwidGFnIjoic2lnbmF0dXJlIn2jc2lnxEA6XHG3SDWzs9RA48MCdDZxStcaXE5hDKzSD+g6j9HgOgAz60gcbYfdinQotmPd8omSyVczKHQd/lyRlFd227gHqHNpZ190eXBlIKRoYXNogqR0eXBlCKV2YWx1ZcQgPGjkdLpaKbMbzTglEh+vhR96DXCcfl7pynQsr1fPCK2jdGFnzQICp3ZlcnNpb24B
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/r3lik
+
+==================================================================
