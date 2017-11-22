@@ -169,6 +169,10 @@ body {
     border-radius: 5px; }
   .user-projects h5 {
     margin: 0; }
+  .user-projects ul, .user-projects ol {
+    list-style-type: square;
+    margin: 1em 0;
+    padding-left: 40px; }
   .user-projects li {
     color: #1a222c;
     font-size: 1.1rem; }
