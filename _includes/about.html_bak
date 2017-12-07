@@ -1,0 +1,30 @@
+ <div class="user-details">
+  <h1> My Background </h1>
+  <p> {{site.user_description}} </p>
+</div>
+  <div class="user">
+    <div class="tech">
+      <h2>Systems</h2>
+      <i class="fa fa-linux" aria-hidden="true"></i>
+      <i class="devicon-redhat-plain-wordmark"></i>
+      <i class="devicon-docker-plain-wordmark"></i>
+      <p>Mumblecore hexagon kombucha, pitchfork four loko raclette intelligentsia master cleanse.
+        Vinyl XOXO lumbersexual</p>
+    </div>
+    <div class="tech">
+      <h2>Networks</h2>
+      <i class="fa fa-server" aria-hidden="true"></i>
+      <i class="fa fa-arrows-alt" aria-hidden="true"></i>
+      <i class="fa fa-user-o" aria-hidden="true"></i>
+      <p>Mumblecore hexagon kombucha, pitchfork four loko raclette intelligentsia master cleanse.
+        Vinyl XOXO lumbersexual</p>
+    </div>
+    <div class="tech">
+      <h2>Tools</h2>
+      <i class="devicon-python-plain-wordmark"></i>
+      <i class="devicon-git-plain"></i>
+      <i class="devicon-confluence-plain-wordmark"></i>
+      <p>Mumblecore hexagon kombucha, pitchfork four loko raclette intelligentsia master cleanse.
+        Vinyl XOXO lumbersexual</p>
+    </div>
+</div>

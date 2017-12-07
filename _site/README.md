@@ -58,7 +58,6 @@ In order to compile the assets and run Jekyll on local you need to follow those 
 - Install [NodeJS](https://nodejs.org/)
 - Run `npm install`
 - Run `gulp`
-- Run `jekyl serve` and preview at `http://localhost:4000`
 
 ## Questions
 
