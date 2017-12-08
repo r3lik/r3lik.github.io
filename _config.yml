@@ -4,7 +4,7 @@ description: About Mike Czarny
 
 # User settings
 username: Mike Czarny
-user_description: Originally from Poland, now living in LA (not limited to), I am a systems and network engineer with a passion for building and automating (and all the fun stuff in between). Some would call this DevOps/SysOps/NetOps/SRE. I've had some success in both startup and corporate enviroments having worn many hats during a seven years career. My focus has recently shifted from traditional cloud and bare-metal services to blockchain technology and cryptocurrency, an area that I'm excited about contributing to, and which I believe will become the next disruptive layer of the internet.     
+user_description: Originally from Poland, now living in LA (not limited to), I am a systems and network engineer with a passion for building and automating (and all the fun stuff in between). Some would call this DevOps/SysOps/NetOps/SRE. I've had some success in both startup and corporate enviroments having worn many hats during a seven year career. My focus has recently shifted from traditional cloud and bare-metal services to blockchain technology and cryptocurrency, an area that I'm excited about contributing to, and which I believe will become the next disruptive layer of the internet.     
 user_title: Tinkerer. Hacker. Engineer.  
 email: mike@r3lik.com
 github_username: r3lik
@@ -16,5 +16,3 @@ google-analytics:
   id: ""
 
 exclude: ['package.json', 'src', 'node_modules']
-
-
